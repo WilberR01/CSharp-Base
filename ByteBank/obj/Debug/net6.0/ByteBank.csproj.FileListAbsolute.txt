@@ -1,0 +1,15 @@
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\bin\Debug\net6.0\ByteBank.exe
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\bin\Debug\net6.0\ByteBank.deps.json
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\bin\Debug\net6.0\ByteBank.runtimeconfig.json
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\bin\Debug\net6.0\ByteBank.dll
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\bin\Debug\net6.0\ByteBank.pdb
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\obj\Debug\net6.0\ByteBank.csproj.AssemblyReference.cache
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\obj\Debug\net6.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfoInputs.cache
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfo.cs
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\obj\Debug\net6.0\ByteBank.csproj.CoreCompileInputs.cache
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\obj\Debug\net6.0\ByteBank.dll
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\obj\Debug\net6.0\refint\ByteBank.dll
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\obj\Debug\net6.0\ByteBank.pdb
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\obj\Debug\net6.0\ByteBank.genruntimeconfig.cache
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ByteBank\obj\Debug\net6.0\ref\ByteBank.dll
