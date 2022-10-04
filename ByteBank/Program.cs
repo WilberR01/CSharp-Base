@@ -9,6 +9,7 @@ conta1.nAgencia = 52;
 conta1.agencia = "Unica";
 conta1.saldo = 225.88;
 
-Console.WriteLine(conta1.titular);
-Console.WriteLine(conta1.nAgencia);
+Console.WriteLine("Saldo atual: " + conta1.saldo);
+conta1.Sacar(203);
+Console.WriteLine("Saldo atual: " + conta1.saldo);
 Console.ReadKey();

@@ -8,5 +8,23 @@
         public string agencia;
         public double saldo;
 
+        public bool Sacar(double valor)
+        {
+            if (valor > saldo)
+            {
+                return false;
+            }
+            if (valor < 0)
+            {
+                return false;
+            }
+            else
+            {
+                saldo -= valor;
+                return true;
+            }
+        }
     }
+
+
 }
