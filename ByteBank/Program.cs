@@ -12,4 +12,7 @@ conta1.saldo = 225.88;
 Console.WriteLine("Saldo atual: " + conta1.saldo);
 conta1.Sacar(203);
 Console.WriteLine("Saldo atual: " + conta1.saldo);
+
+conta1.Depositar(-30);
+Console.WriteLine("Saldo atual: " + conta1.saldo);
 Console.ReadKey();

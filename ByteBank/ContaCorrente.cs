@@ -24,6 +24,19 @@
                 return true;
             }
         }
+
+        public bool Depositar(double valor)
+        {
+            if (valor < 0)
+            {
+                return false;
+            }
+            else
+            {
+                saldo += valor;
+                return true;
+            }
+        }
     }
 
 
