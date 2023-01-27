@@ -39,6 +39,7 @@ namespace ByteBank
         {
             if (valor > Saldo)
             {
+                //Exceção para facilitar a identificação do erro pelo usuário.
                 throw new SaldoInsuficienteException("O Saldo para essa operação não é suficiente");
             }
             if (valor < 0)
@@ -48,6 +49,7 @@ namespace ByteBank
             else
             {
                 Saldo -= valor;
+                Console.WriteLine(valor + " Reais foram sacados com sucesso");
                 return true;
             }
         }
@@ -68,7 +70,7 @@ namespace ByteBank
         {
             if (valor > Saldo)
             {
-                return false;
+                throw new SaldoInsuficienteException("O Saldo para essa operação não é suficiente");
             }
             if (valor < 0)
             {
@@ -78,10 +80,15 @@ namespace ByteBank
             {
                 Saldo -= valor;
                 destinatario.Saldo += valor;
+                Console.WriteLine(valor + " Reais foram transferidos com sucesso");
                 return true;
             }
         }
-
+        /*
+         * 
+         * Função ficou obsoleta e pouco segura pois permitia alteração do saldo a qualquer momento.
+         * Utilizado a definição do Saldo direto no construtor ao invés disso.
+         * 
         public void SetSaldo(double valor)
         {
             if (valor < 0)
@@ -93,6 +100,7 @@ namespace ByteBank
                 this.Saldo = valor;
             }
         }
+        */
         public double? GetSaldo()
         {
             return this.Saldo;

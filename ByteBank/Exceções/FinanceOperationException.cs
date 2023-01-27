@@ -8,10 +8,10 @@ namespace ByteBank.Exceções
 {
     public class FinanceOperationException:Exception
     {
-        public FinanceOperationException(string mesage) : base(mesage)
+        public FinanceOperationException(string mensagem) : base(mensagem)
         {
         }
-        public FinanceOperationException(string mesage, Exception excecaoInterna) : base(mesage, excecaoInterna)
+        public FinanceOperationException(string mensagem, Exception excecaoInterna) : base(mensagem, excecaoInterna)
         {
         }
     }
