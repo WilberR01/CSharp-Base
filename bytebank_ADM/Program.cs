@@ -26,6 +26,8 @@ UsarSistema();
 CalcularBonificacao();
 
 void CalcularBonificacao()
+    //Era necessário designar bonificações diferentes para cada cargo, com o mínimo de repetição de código 
+    //e de forma a deixar o código limpo e com fácil manutenção.
 {
     GerenciadorDeBonificacao gerenciador = new GerenciadorDeBonificacao();
 
@@ -47,6 +49,8 @@ void CalcularBonificacao()
 }
 
 void UsarSistema()
+    //Já nesse caso, a intenção era que tivessemos um sistema interno que apenas os funcionários de alto escalão
+    //ou os parceiros comerciais pudessem acessar.
 {
     var sistema = new SistemaInterno();
 
