@@ -1,6 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ByteBank",
+    "\\ByteBank\\Contas",
+    "\\ByteBank\\Exceções",
+    "\\bytebank_ADM",
+    "\\bytebank_ADM\\Funcionarios",
+    "\\bytebank_ADM\\Parceria",
+    "\\bytebank_ADM\\Sistema Interno",
+    "\\bytebank_ADM\\Utilitario"
   ],
+  "SelectedNode": "\\ByteBank\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

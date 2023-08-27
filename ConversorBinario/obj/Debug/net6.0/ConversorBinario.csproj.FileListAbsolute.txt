@@ -1,0 +1,15 @@
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\bin\Debug\net6.0\ConversorBinario.exe
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\bin\Debug\net6.0\ConversorBinario.deps.json
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\bin\Debug\net6.0\ConversorBinario.runtimeconfig.json
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\bin\Debug\net6.0\ConversorBinario.dll
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\bin\Debug\net6.0\ConversorBinario.pdb
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\obj\Debug\net6.0\ConversorBinario.csproj.AssemblyReference.cache
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\obj\Debug\net6.0\ConversorBinario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\obj\Debug\net6.0\ConversorBinario.AssemblyInfoInputs.cache
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\obj\Debug\net6.0\ConversorBinario.AssemblyInfo.cs
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\obj\Debug\net6.0\ConversorBinario.csproj.CoreCompileInputs.cache
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\obj\Debug\net6.0\ConversorBinario.dll
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\obj\Debug\net6.0\refint\ConversorBinario.dll
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\obj\Debug\net6.0\ConversorBinario.pdb
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\obj\Debug\net6.0\ConversorBinario.genruntimeconfig.cache
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\ConversorBinario\obj\Debug\net6.0\ref\ConversorBinario.dll
