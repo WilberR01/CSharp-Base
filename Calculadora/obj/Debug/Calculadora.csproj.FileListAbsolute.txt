@@ -1,0 +1,10 @@
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\Calculadora\bin\Debug\Calculadora.exe
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\Calculadora\bin\Debug\Calculadora.pdb
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\Calculadora\obj\Debug\Calculadora.exe
+D:\Usuario\OneDrive\Documentos\Geral\CSharp-Base\Calculadora\obj\Debug\Calculadora.pdb
